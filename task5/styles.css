@@ -1,0 +1,72 @@
+.error {
+    color: #d84315;
+}
+html {
+  overflow-x: hidden;
+}
+body {
+  margin-top: 30px;
+  font-family: sans-serif;
+  background-color: #f1f8e9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("fon.jpg");
+  background-repeat: repeat;
+  background-size: 35%;
+}
+
+#hform {
+  border: 8px solid #81c784;
+  border-radius: 35%;
+  padding: 7%;
+  background-color: #c8e6c9;
+  margin-top: 50px;
+  text-align: center;
+}
+
+#sendbutton {
+  border: 7px solid #66bb6a;
+  border-radius: 20%;
+  margin-top: 12%;
+  padding: 7%;
+  background-color: #66bb6a;
+  color: #e8f5e9;
+}
+
+.h2 {
+  color: #2e7d32;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  width: 35%;
+}
+
+button {
+  border: 7px solid #81c784;
+  border-radius: 55%;
+  background-color: #dcedc8;
+  margin-bottom: 15px;
+  padding: 7%;
+  font-size: large;
+  color: #1b5e20;
+}
+
+.linktomain {
+  text-decoration: none;
+  color: #2e7d32;
+  font-size: large;
+}
+
+#greentext {
+  text-align: center;
+}
+
+input {
+  margin-bottom: 4px;
+  margin-top: 4px;
+  border-radius: 5%;
+  border-width: 3px;
+}
